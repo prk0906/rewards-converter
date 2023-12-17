@@ -23,9 +23,7 @@ public class RewardValue
         return  milesValue;
     }
 
-//    public int getMilesValue() {
-//        return Integer.parseInt(String.valueOf(milesValue*0.0035));
-//    }
+
 
 
 }
